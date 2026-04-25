@@ -4,7 +4,7 @@ This repository contains assignments completed for **COMP 334 – Artificial Int
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Comp-334-Assignment/
@@ -15,7 +15,7 @@ Comp-334-Assignment/
 
 ---
 
-## 📌 Assignment Summaries
+##  Assignment Summaries
 
 ### 1. [Football Analysis Exercise](./football_exercise/)
 > **AI Exercise 1** – Exploratory Data Analysis
@@ -41,7 +41,7 @@ Comp-334-Assignment/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Each project has its own `requirements.txt`. To run a specific assignment:
 
@@ -70,8 +70,8 @@ jupyter notebook notebooks/
 
 ---
 
-## 👤 Author
+##  Author
 
-**COMP 334 Student** – Artificial Intelligence Course
+**TOM OBUBA** – 
 
 ---
